@@ -1,4 +1,3 @@
-# brick_popper
 # **Brick Breaker 🧱⚡**  
 
 A fun and interactive **Brick Breaker** game built using **Scratch**, where players control a paddle to bounce a ball and break all the bricks on the screen. The challenge increases as the game progresses, testing reflexes and precision.  
