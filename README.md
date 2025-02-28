@@ -1,14 +1,19 @@
 # brick_popper
-Title: Brick Breaker – Classic Arcade Game in Scratch
+# **Brick Breaker 🧱⚡**  
 
-Description:
-A simple yet engaging Brick Breaker game developed on the Scratch platform. The player controls a paddle to bounce the ball and break all the bricks on the screen. The challenge increases as the ball speeds up, requiring precise movements and quick reflexes.
+A fun and interactive **Brick Breaker** game built using **Scratch**, where players control a paddle to bounce a ball and break all the bricks on the screen. The challenge increases as the game progresses, testing reflexes and precision.  
 
-Features:
-Classic arcade-style gameplay.
-Smooth paddle movement and ball physics.
-Progressive difficulty as the game speeds up.
-Built using Scratch, making it an interactive beginner-friendly project.
-This project showcases fundamental game development concepts like collision detection, loops, and event handling.
+## **Features**  
+- Smooth paddle movement for precise control  
+- Progressive difficulty with increasing ball speed  
+- Collision detection for realistic gameplay  
+- Simple yet engaging arcade-style mechanics  
 
-🔗(https://scratch.mit.edu/projects/1140508038)
+## **How to Play**  
+- Use the **left and right arrow keys** to move the paddle  
+- Bounce the ball to break all the bricks  
+- Prevent the ball from falling to avoid losing  
+- Clear all the bricks to win!  
+
+## **Play Here**  
+[Click to Play](https://scratch.mit.edu/projects/1140508038)  
